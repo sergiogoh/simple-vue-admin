@@ -22,7 +22,7 @@ Then, you use npm:
 ```
 $ npm install
 
-# serve with hot reload at localhost:8080 by default.
+# serve with hot reload at localhost:8000 by default.
 $ npm run serve
 
 ```
